@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+# 個人データ（バックアップ・移行ファイル）は絶対に含めない
+*backup*.json
+*移行データ*
+private/
